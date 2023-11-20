@@ -4,7 +4,7 @@ Certainly! Here's a README for your project:
 
 # Terribly Tiny Sales Profile Screen Renderer
 
-This project renders a "profile screen" resembling [this design]([https://ttt-assignment-eta.vercel.app](https://www.terriblytinytales.com/profile.jpeg) with the following features:
+This project renders a "profile screen" resembling [this design](https://www.terriblytinytales.com/profile.jpeg) with the following features:
 
 - Profile data is hardcoded within a local JSON file, eliminating the need for a backend.
 - Ensures consistent rendering across various mobile devices using Chrome Inspect's mobile view or physical devices.
