@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 terribly tiny sales 
 
 step 1: npm install
@@ -19,3 +20,6 @@ project file structure
 
 For symbols like heart, view, like, zodiac sign etc.. these are designed in flaticon.com and are saved in the folder "./src/symbols"
 
+=======
+# ttt_assignment
+>>>>>>> f22ea8ab3de6d57b11c23d975c32a40dc4aa49d5
