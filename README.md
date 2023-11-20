@@ -1,5 +1,5 @@
 
-# Terribly Tiny Sales Profile Screen Renderer
+# Terribly Tiny Profile Screen Renderer
 
 This project renders a "profile screen" resembling [this design](https://www.terriblytinytales.com/profile.jpeg) with the following features:
 
