@@ -1,6 +1,3 @@
-Certainly! Here's a README for your project:
-
----
 
 # Terribly Tiny Sales Profile Screen Renderer
 
